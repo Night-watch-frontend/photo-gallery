@@ -17,6 +17,11 @@
 
 `npm run docker`
 
+затем можно открыть `http:localhost:8055` чтобы войти в админ. панель
+для входа использовать
+Email: "admin@example.com"
+Password: "d1r3ctu5"
+
 4. запуск команды для открытия проекта на локальном сервере
 
 `npm run dev`
