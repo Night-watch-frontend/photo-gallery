@@ -1,4 +1,7 @@
 # Фото галереяя
+![Снимок экрана от 2024-08-13 01-00-52](https://github.com/user-attachments/assets/d98184be-14f8-41b8-974d-a4e046dd237b)
+![Снимок экрана от 2024-08-13 01-01-09](https://github.com/user-attachments/assets/6fe1756a-81ca-4c76-82b0-e37d342d2d1f)
+
 
 ## Установка
 
