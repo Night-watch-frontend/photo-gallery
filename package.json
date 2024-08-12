@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "concurrently \"next build\" \"docker-compose up\"",
-    "start": "concurrently \"next start\" \"docker-compose up\"",
+    "build": "next build",
+    "start": "next start",
     "lint": "next lint",
-    "docker": "docker-compose up"
+    "docker": "docker-compose up -d"
   },
   "dependencies": {
     "@directus/sdk": "^17.0.0",
