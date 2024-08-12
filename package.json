@@ -5,9 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "concurrently \"next start\" \"docker-compose up\"",
+    "start": "next start",
     "lint": "next lint",
-    "docker": "docker-compose up"
+    "docker": "docker-compose up -d"
   },
   "dependencies": {
     "@directus/sdk": "^17.0.0",
